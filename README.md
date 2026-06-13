@@ -14,13 +14,13 @@ The entire implementation, including data preparation, model training, evaluatio
 - NumPy
 - Matplotlib
 - Google Colab
-
+  
 ## Datasets
 
 The project uses the following publicly available retinal image datasets:
 
-- [DRIVE Dataset](https://drive.grand-challenge.org/)
-- [CHASE_DB1 Dataset](https://blogs.kingston.ac.uk/retinal/chasedb1/)
+- DRIVE Dataset: https://drive.grand-challenge.org/
+- CHASE_DB1 Dataset: https://blogs.kingston.ac.uk/retinal/chasedb1/
 
 ## Author
 
