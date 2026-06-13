@@ -17,8 +17,10 @@ The entire implementation, including data preparation, model training, evaluatio
 
 ## Datasets
 
-- DRIVE Dataset
-- CHASE_DB1 Dataset
+The project uses the following publicly available retinal image datasets:
+
+- [DRIVE Dataset](https://drive.grand-challenge.org/)
+- [CHASE_DB1 Dataset](https://blogs.kingston.ac.uk/retinal/chasedb1/)
 
 ## Author
 
